@@ -1,0 +1,80 @@
+{
+
+   "preguntas":  [
+    {
+        "id":"1",
+        "nivel": "Nivel 1",
+        "pregunta": "Que figura ves en la imagen?",
+        "respuesta":"triangulo",
+        "incorrecta1":"cuadrado",
+        "incorrecta2":"rectangulo",
+        "incorrecta3":"circulo",
+        "imagen":"/formas/triangulo.png ",
+        "object_fit":"cover"
+    } ,
+
+
+    { 
+        "id":"2",
+        "nivel": "Nivel 1",
+        "pregunta": "Que figura ves en la imagen?",
+        "respuesta":"cuadrado",
+        "incorrecta1":"triangulo",
+        "incorrecta2":"rectangulo",
+        "incorrecta3":"circulo",
+        "imagen":"/formas/cuadrado.png ",
+        "object_fit":"cover"
+    } ,
+
+
+    {
+        "id":"3",
+        "nivel": "Nivel 1",
+        "pregunta": "Que figura ves en la imagen?",
+        "respuesta":"rectangulo",
+        "incorrecta1":"cuadrado",
+        "incorrecta2":"triangulo",
+        "incorrecta3":"circulo",
+        "imagen":"/figuras/rectangulo.png ",
+        "object_fit":"cover"
+    } ,
+
+
+    {
+        "id":"4",
+        "nivel": "Nivel 1",
+        "pregunta": "Que figura ves en la imagen?",
+        "respuesta":"circulo",
+        "incorrecta1":"cuadrado",
+        "incorrecta2":"rectangulo",
+        "incorrecta3":"triangulo",
+        "imagen":"/formas/circulo.png ",
+        "object_fit":"cover"
+    } ,
+
+
+    {
+        "id":"5",
+        "nivel": "Nivel 1",
+        "pregunta": "Cuantos ángulos tiene el hexagono?",
+        "respuesta":"Seis",
+        "incorrecta1":"Siete",
+        "incorrecta2":"Cinco",
+        "incorrecta3":"Nueve",
+        "imagen":"/formas/heptagono.png ",
+        "object_fit":"cover"
+    } ,
+
+    {
+        "id":"6",
+        "nivel": "Nivel 1",
+        "pregunta": "Cuantos lados tiene un cuadrado?",
+        "respuesta":"Cuatro",
+        "incorrecta1":"Tres",
+        "incorrecta2":"Cinco",
+        "incorrecta3":"Seis",
+        "imagen":"/formas/cuadrado.png ",
+        "object_fit":"cover"
+    } 
+]
+}
